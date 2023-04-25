@@ -1,0 +1,74 @@
+{
+    "movies": [
+        {
+            "name": "Titanic",
+            "year": "1998",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/Titanic-1998.jpg",
+            "rating": "10",
+            "id": "111"
+        },
+        {
+            "name": "My Left Foot",
+            "year": "1989",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/My-Left-Foot-1989.jpg",
+            "rating": "9",
+            "id": "222"
+        },
+        {
+            "name": "Schindler's List",
+            "year": "1993",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/Schindlers-List-1993.jpg",
+            "rating": "8",
+            "id": "333"
+        },
+        {
+            "name": "Vertigo",
+            "year": "1958",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/Vertigo-1958.jpg",
+            "rating": "7",
+            "id": "444"
+        },
+        {
+            "name": "Psycho",
+            "year": "1960",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/Psycho-1960.jpg",
+            "rating": "6",
+            "id": "555"
+        },
+        {
+            "name": "Some Like It Hot",
+            "year": "1959",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/Some-Like-It-Hot-1959.jpg",
+            "rating": "5",
+            "id": "10101"
+        },
+        {
+            "name": "A Separation",
+            "year": "2011",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/A-Separation.jpg",
+            "rating": "4",
+            "id": "666"
+        },
+        {
+            "name": "The Lady Vanishes",
+            "year": "1938",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/The-Lady-Vanishes-1938.jpg",
+            "rating": "3",
+            "id": "777"
+        },
+        {
+            "name": "Au Hasard Balthazar",
+            "year": "1966",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/Au-Hasard-Balthazar-1966.jpg",
+            "rating": "2",
+            "id": "888"
+        },
+        {
+            "name": "Ran",
+            "year": "1985",
+            "photoUrl": "https://www.newvisiontheatres.com/wp-content/uploads/2023/02/Ran-1985.jpg",
+            "rating": "1",
+            "id": "999"
+        }
+    ]
+}

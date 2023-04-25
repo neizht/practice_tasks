@@ -1,0 +1,31 @@
+.container {
+    width: 900px;
+    height: fit-content;
+    border: 1px solid black;
+    box-shadow: 1px 1px 2px black;
+    padding: 20px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+li{
+    display: flex;
+    flex-direction: column;
+    width: calc(100% / 3);
+    align-items: center;
+    padding-bottom: 10px;
+    height: fit-content;
+}
+h1 {
+    font-size: 15px;
+}
+.inputRating {
+    display: none;
+    position: fixed;
+    right: 50%;
+    top: 50%;
+    margin-right: -150px;
+}
